@@ -26,10 +26,12 @@ Created 3 financial dashboards using Power BI to showcase key performance indica
 
 ## IT Department Financial Dashboard
 
+### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiODc4OWNmYjMtNjkwZS00MDNhLTllN2ItNzE0NDkyMDhjZDdiIiwidCI6IjMxNjIzZjJjLWQ0ZTMtNDYwOS1iNTkzLWMzNjVkN2I3YmExZiJ9)
+
 ![IT Dept Analysis Dashboard 1.png](https://github.com/PennyLi123/IT-Department-Financial-Dashboard/blob/main/IT%20Dept%20Analysis%20Dashboard%201.png)
 
 ![IT Dept Analysis Dashboard 2.png](https://github.com/PennyLi123/IT-Department-Financial-Dashboard/blob/main/IT%20Dept%20Analysis%20Dashboard%202.png)
 
 ![IT Dept Analysis Dashboard 3.png](https://github.com/PennyLi123/IT-Department-Financial-Dashboard/blob/main/IT%20Dept%20Analysis%20Dashboard%203.png)
 
-### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiODc4OWNmYjMtNjkwZS00MDNhLTllN2ItNzE0NDkyMDhjZDdiIiwidCI6IjMxNjIzZjJjLWQ0ZTMtNDYwOS1iNTkzLWMzNjVkN2I3YmExZiJ9)
+
