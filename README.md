@@ -1,4 +1,4 @@
-# IT-Department-Financial-Dashboard
+# IT-Department-Financial-Power BI Dashboard
 
 # Project Overview
 
