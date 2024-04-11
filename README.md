@@ -2,7 +2,7 @@
 
 # Project Overview
 
-Created 3 financial dashboards using Power BI to showcase key performance indicators (KPIs) for the IT department teams.
+Created 3 financial dashboards using Power BI to showcase 𝐤𝐞𝐲 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐢𝐧𝐝𝐢𝐜𝐚𝐭𝐨𝐫𝐬 (𝐊𝐏𝐈𝐬) for the IT department teams.
 
 
 # Tech stacks used in the project
@@ -12,16 +12,16 @@ Created 3 financial dashboards using Power BI to showcase key performance indica
 5. Power Query
 
 # Tech skills
-* Performing data cleaning and Extract, Load, and Transform (ELT) operations using Power Query Editor.
+* Performing data cleaning and Extract, Load, and Transform (ELT) operations using `Power Query Editor`.
 * Developing data models and creating the database schema.
-* Creating measures and calculated columns using the DAX language.
+* Creating measures and calculated columns using the `DAX` language.
 * Designing dynamic visuals and dynamic titles with various filters based on requirements.
-* Utilising Bookmarks to switch between different visuals.
-* Implementing tooltips for visuals.
-* Applying conditional formatting.
-* Analyzing dashboard performance using Dax Studio.
+* Utilising `Bookmarks` to switch between different visuals.
+* Implementing `tooltips` for visuals.
+* Applying 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐟𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠.
+* Analyzing 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 using `DAX` Studio.
 * Implementing performance optimization techniques.
-* Deploying reports to the Power BI service.
+* Deploying reports to the `Power BI service`.
 
 
 ## IT Department Financial Dashboard
