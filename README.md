@@ -12,7 +12,7 @@ Created 3 financial dashboards using Power BI to showcase 𝐤𝐞𝐲 𝐩𝐞�
 5. Power Query
 
 # Tech skills
-* Performing data cleaning and Extract, Load, and Transform (ELT) operations using `Power Query Editor`.
+* Performing data 𝐜𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐱𝐭𝐫𝐚𝐜𝐭, 𝐋𝐨𝐚𝐝, 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 (𝐄𝐋𝐓) operations using `Power Query Editor`.
 * Developing data models and creating the database schema.
 * Creating measures and calculated columns using the `DAX` language.
 * Designing dynamic visuals and dynamic titles with various filters based on requirements.
